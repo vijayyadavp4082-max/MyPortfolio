@@ -1,16 +1,56 @@
-# React + Vite
+# MyPortfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MyPortfolio is a personal portfolio website built using React.js and Tailwind CSS. It showcases my introduction, technical skills, projects, and contact information.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- React.js
+- JavaScript
+- Tailwind CSS
+- Vite
+- Git and GitHub
+- Vercel
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Home section with personal introduction
+- Technical skills section
+- QuickBlog project showcase
+- About section
+- Contact information and links
+- Responsive user interface
 
-## Expanding the ESLint configuration
+## Development Process
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Created the project using React and Vite.
+2. Developed the portfolio sections and reusable React components.
+3. Styled the website using Tailwind CSS.
+4. Added links to my GitHub profile and QuickBlog project.
+5. Tested the website locally.
+
+## Deployment Process
+
+1. Initialized Git in the project directory.
+2. Added and committed the project files.
+3. Pushed the source code to GitHub.
+4. Imported the GitHub repository into Vercel.
+5. Deployed the website and checked the production deployment status.
+
+## Challenges and Solutions
+
+- **Git setup:** Initialized the project as a Git repository using `git init`.
+- **Repository connection:** Corrected the GitHub repository URL after the initial push failed.
+- **Deployment:** Connected the GitHub repository to Vercel and successfully deployed the portfolio.
+
+## Project Links
+
+- **GitHub Repository:** https://github.com/vijayyadavp4082-max/MyPortfolio
+- **Live Website:** https://my-portfolio-vijayp.vercel.app/
+
+## Screenshots
+
+Screenshots of the deployed website can be added here for evaluation.
+
+## Conclusion
+
+This project helped me practice React development, responsive UI design, version control with Git and GitHub, and website deployment using Vercel.
